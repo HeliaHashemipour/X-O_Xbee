@@ -7,5 +7,5 @@ In this project, we are going to design a platform with the help of Xbee module,
 - Learning to work with the Xbee module
 - Writing code in Arduino
 - Connecting two or more (for scoring mode) Arduino board to each other
-- Connecting Arduino to Keypad and coding using h.Keypad library
+- Connecting Arduino to Keypad and coding using Keypad.h library
 - Simulation of connecting two virtual connection ports (COM) to each other to simulate control modules Remotely in Proteus
