@@ -1,3 +1,8 @@
+## Computer Architecture
+> Instructor: [Dr. H. Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en)
+
+> Semester: Fall 2021
+
 # Introduction
 
 In this project, we are going to design a platform with the help of Xbee module, Keypad and Arduino board and some LEDs in the score mode of LCD (platform) to recite players with memorization. Social network distance to play with X-O.
